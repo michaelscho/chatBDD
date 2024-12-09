@@ -1,0 +1,452 @@
+{
+    "divs": [
+        {
+            "id": "edition-13-con-001",
+            "type": "chapter",
+            "n": "1",
+            "heading": "i De observatione quadragesimae",
+            "text": "Quadragesima summa observatione est observanda ut ieiunium in ea praeter dies dominicos qui de abstinentia subtracti sunt nisi quem infirmitas impedierit nullatenus solvatur quia ipsi dies decimae sunt anni. A prima igitur dominica quadragesimae usque in pascha domini vi hebdomadae computantur quarum videlicet dierum quadraginta et duo fiunt. Ex quibus dum sex dies dominici abstinentiae subtrahuntur non plus in abstinentia quam xxx et vi dies remanent. Verbi gratia: Si per trecentos sexaginta v dies annus ducitur nos autem per xxx et sex dies affligimur quasi anni decimas deo damus. Et ut sacer numerus quadraginta dierum adimpleatur quem salvator noster suo sacro ieiunio consecraverat quatuor dies prioris hebdomadae ad supplementum quadraginta dierum tollantur id est iiii feria quae caput ieiunii subnotatur et quinta feria sequens sexta et sabbatum. Nisi istos quatuor dies superioribus triginta et vi adiunxerimus quadraginta dies in abstinentia non habemus. Iubemur etiam ab omnipotenti deo omnium bonorum nostrorum decimas dare. Quapropter ut omnis decima a nobis deo rite persolvatur tollamus decimam anni et in ea peccata nostra confitendo corrigendo nos ieiunando vigilando orando eleemosynas largiendo abstergamus et carnem nostram decimemus ut ad sanctum pascha securi pervenire possimus.",
+            "metadata": {
+                "sameAs": "#edition-13-toc-001",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-001",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-001",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-001",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-001"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-002",
+            "type": "chapter",
+            "n": "2",
+            "heading": "ii De ieiunio quatuor temporum",
+            "text": "Constituimus ut quatuor tempora anni ab omnibus cum ieiunio observentur. Id est in martio hebdomada prima In iunio secunda In septembre tertia In decembre quarta quae fuerit plena ante vigiliam natalis domini id est feria iiii et vi et sabbato. Veniant omnes ad ecclesiam hora nona cum litaniis ad missarum sollemnia",
+            "metadata": {
+                "sameAs": "#edition-13-toc-002",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-002",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-002",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-002",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-002"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-003",
+            "type": "chapter",
+            "n": "3",
+            "heading": "iii Quo tempore ad missam flectamus genua dici debeat",
+            "text": "Ut presbyteri plebibus annuntient quod in quadragesima et in ieiunio iiii temporum tantummodo ad missarum sollemnia genua flectere debeant. In dominicis econtra diebus vel ceteris festis a vespera usque in vesperam non flectant genua sed stantes incurvati orent nec quisquam uno genu solotenus impresso orare praesumat sicut Iudaei irridentes dominum in passione eius fecisse leguntur sed utraque genua terrae figat. Ait enim apostolus: Flecto genua mea ad patrem domini nostri",
+            "metadata": {
+                "sameAs": "#edition-13-toc-003",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-003",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-003",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-003",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-003"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-004",
+            "type": "chapter",
+            "n": "4",
+            "heading": "iiii De illis qui indictum ieiunium contempserint",
+            "text": "Siquis indictum ieiunium superbiendo contempserit et observare cum ceteris christianis noluerit in Gangrensi concilio praecipitur ut anathematizetur",
+            "metadata": {
+                "sameAs": "#edition-13-toc-004",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-004",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-004",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-004",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-004"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-005",
+            "type": "chapter",
+            "n": "5",
+            "heading": "v De eadem re",
+            "text": "Siquis eorum qui continentiae student absque necessitate corporea tradita in commune ieiunia et ab ecclesia custodita superbiendo dissolvit stimulo suae cogitationis impulsus anathema sit",
+            "metadata": {
+                "sameAs": "#edition-13-toc-005",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-005",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-005",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-005",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-005"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-006",
+            "type": "chapter",
+            "n": "6",
+            "heading": "vi De litania maiore quomodo observanda sit",
+            "text": "Placuit nobis ut litania maior observanda sit a cunctis christianis uno die vii Kalendas Mai sicut in Romana ecclesia constitutum reperimus et sicut sancti patres nostri constituerunt non equitando non pretiosis vestibus induti cinere respersi et cilicio induti nisi infirmitas impedierit",
+            "metadata": {
+                "sameAs": "#edition-13-toc-006",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-006",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-006",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-006",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-006"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-007",
+            "type": "chapter",
+            "n": "7",
+            "heading": "vii De ieiunio rogationum",
+            "text": "Cum exigentibus peccatis Galliarum populi luporum rabie acriter interimerentur nec huius flagelli aliquod remedium inveniri posset congregati traduntur Galliarum episcopi apud Viennam urbem atque in commune statuerunt ut triduanum ieiunium facerent. Cumque dominus pestem misericorditer abstulisset hi dies in consuetudinem annuae celebritatis venerunt ut per Galliarum provincias ante ascensionis domini diem celebrarentur. Agamus et nos hos dies cum summa reverentia et devotione cum abstinentia carnis et humilitate cordis non ut visibilium luporum rabiem evadamus sed ut invisibilium id est spirituum inmundorum temptamenta vincere valeamus. Nullus autem his diebus vestimentis pretiosis induatur quia in sacco et cinere lugere debemus. Prohibeantur ebrietates et commessationes quae fiunt in vulgari plebe. Nemo ibi equitare praesumat sed discalciatis pedibus omnes incedant. Nequaquam mulierculae choros ducant sed omnes in commune kyrie eleison decantent et cum contritione cordis dei misericordiam exorent pro peccatis pro pace pro peste pro conservatione frugum et pro ceteris necessitatibus. Dies enim sunt abstinentiae non laetitiae",
+            "metadata": {
+                "sameAs": "#edition-13-toc-007",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-007",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-007",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-007",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-007"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-008",
+            "type": "chapter",
+            "n": "8",
+            "heading": "viii Ut in cena domini ut in reliquis quadragesimae diebus ieiunium non solvatur",
+            "text": "Quod non oporteat in quadragesima in ultima septimana quintae feriae ieiunium solvere totamque quadragesimam sine veneratione transire magisque conveniat omnem quadragesimam districto venerari ieiunio",
+            "metadata": {
+                "sameAs": "#edition-13-toc-008",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-008",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-008",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-008",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-008"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-009",
+            "type": "chapter",
+            "n": "9",
+            "heading": "viiii Ut in sabbato sancto ieiunium ante noctis initium non solvatur",
+            "text": "Ut in sabbato sancto hoc est in vigilia paschae ieiunium ante noctis initium nisi a parvulis aut infirmis non solvatur nec ipsa in parasceue quia cena domini et parasceue et sabbatum ad illos quadraginta dies respiciunt vel divina mysteria his duobus diebus celebrentur canonibus quippe iubentibus biduo isto id est parasceue et sabbato sacramenta penitus celebrari",
+            "metadata": {
+                "sameAs": "#edition-13-toc-009",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-009",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-009",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-009",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-009"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-010",
+            "type": "chapter",
+            "n": "10",
+            "heading": "x Quod non oporteat in quadragesima natalicia sanctorum celebrari",
+            "text": "Quod non oporteat in quadragesima martyrum natalicia celebrari sed eorum sancta commemoratio in diebus sabbatorum et dominicorum fieri conveniat",
+            "metadata": {
+                "sameAs": "#edition-13-toc-010",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-010",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-010",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-010",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-010"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-011",
+            "type": "chapter",
+            "n": "11",
+            "heading": "xi Quod in diebus ieiunii eleemosyna sit facienda",
+            "text": "Diebus vero ieiunii eleemosyna facienda est et cibum sive potum quo quisque uti debuit si ieiunaverit pauperibus eroget quia ieiunare et cibos prandii ad cenam reservare non mercedis sed ciborum est incrementum",
+            "metadata": {
+                "sameAs": "#edition-13-toc-011",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-011",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-011",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-011",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-011"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-012",
+            "type": "chapter",
+            "n": "12",
+            "heading": "xii Ut in quadragesima tempus prandii conservetur",
+            "text": "Solent plures qui se ieiunare putant in quadragesima nox ut signum audierint ad horam nonam manducare. Qui nullatenus ieiunare credendi sunt si ante manducaverint quam vespertinum celebretur officium. Concurrendum est enim ad missas et auditis missarum sollemnibus et vespertinis officiis largitis eleemosynis ad cibum accedendum est. Si vero aliquis necessitate constrictus fuerit ut ad missam venire non valeat aestimata vespertina hora completa oratione sua ieiunium absolvat",
+            "metadata": {
+                "sameAs": "#edition-13-toc-012",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-012",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-012",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-012",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-012"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-013",
+            "type": "chapter",
+            "n": "13",
+            "heading": "xiii Quod in diebus ieiuniorum nulla iurgia esse debeant",
+            "text": "In his ieiuniorum diebus nullae lites nullae contentiones esse debent sed in dei laudibus et opere necessario persistendum. Arguit enim eos qui contentiones et lites quadragesimae tempore faciunt et qui debita a debitoribus exigunt dominus per prophetam dicens: Ecce in die ieiunii vestri inveniuntur voluntatis vestrae et omnes debitores vestros repetitis. Ecce ad lites et ad contentiones ieiunatis et percutitis pugno impie",
+            "metadata": {
+                "sameAs": "#edition-13-toc-013",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-013",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-013",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-013",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-013"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-014",
+            "type": "chapter",
+            "n": "14",
+            "heading": "xiiii Ut in illis sacratis diebus ieiuniorum coniugati a coniugibus se abstinere debeant",
+            "text": "Abstinendum est enim in his sacratissimis quadragesimae diebus a coniugibus et caste et pie vivendum ut sanctificato corde et corpore isti dies transigantur et sic perveniatur ad diem sanctum paschae quia pene nihil valet ieiunium quod coniugali opere polluitur et quod orationes vigiliae et eleemosynae non commendant",
+            "metadata": {
+                "sameAs": "#edition-13-toc-014",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-014",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-014",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-014",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-014"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-015",
+            "type": "chapter",
+            "n": "15",
+            "heading": "xv De his qui in clero sunt et carnium esum habuerint exosum",
+            "text": "Hi qui in clero sunt presbyteri aut diaconi et a carnibus abstinent placuit eas quidem contingere et ita si voluerint continere. Quodsi in tantum eas abominantur ut nec olera quae cum eis coquuntur existiment comedenda tamquam non consentientes regulae ab ordine cessare debent",
+            "metadata": {
+                "sameAs": "#edition-13-toc-015",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-015",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-015",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-015",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-015"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-016",
+            "type": "chapter",
+            "n": "16",
+            "heading": "xvi De vigiliis sanctorum",
+            "text": "Presbyteri cum sacras festivitates populo annuntiant etiam ieiunium vigiliarum eos omnimodis servare moneant",
+            "metadata": {
+                "sameAs": "#edition-13-toc-016",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-016",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-016",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-016",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-016"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-017",
+            "type": "chapter",
+            "n": "17",
+            "heading": "xvii De eadem re",
+            "text": "Ut in ecclesia a sacerdotibus ieiunia constituta sine necessitate rationabili non solvantur",
+            "metadata": {
+                "sameAs": "#edition-13-toc-017",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-017",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-017",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-017",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-017"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-018",
+            "type": "chapter",
+            "n": "18",
+            "heading": "xviii De hoc si evenerit pestilentia vel inaequalitas aeris",
+            "text": "Si evenerit fames pestilentia inaequalitas aeris alia qualiscumque tribulatio statim ieiuniis eleemosynis et obsecrationibus domini misericordia deprecetur",
+            "metadata": {
+                "sameAs": "#edition-13-toc-018",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-018",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-018",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-018",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-018"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-019",
+            "type": "chapter",
+            "n": "19",
+            "heading": "xviiii Ut nullus in die dominica pro abstinentia ieiunet",
+            "text": "Siquis propter continentiam quae putatur aut propter contumaciam in die dominico ieiunat anathema sit",
+            "metadata": {
+                "sameAs": "#edition-13-toc-019",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-019",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-019",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-019",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-019"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-020",
+            "type": "chapter",
+            "n": "20",
+            "heading": "xx De eadem re",
+            "text": "Siquis propter publicam paenitentiam a sacerdote acceptam aut pro aliqua necessitate die dominica velut pro quadam religione ieiunaverit sicut Manichaei anathema sit",
+            "metadata": {
+                "sameAs": "#edition-13-toc-020",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-020",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-020",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-020",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-020"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-021",
+            "type": "chapter",
+            "n": "21",
+            "heading": "xxi Ut placita saecularia in diebus dominicis et in praecipuis festis et in diebus ieiuniorum non fiant",
+            "text": "Placita saecularia dominicis diebus vel aliis praecipuis festis seu etiam in his diebus in quibus legitima ieiunia celebrantur secundum canonicam constitutionem minime fieri decrevimus: Insuper etiam sancta synodus decrevit ut nulla iudiciaria potestas licentiam habeat sua auctoritate christianos ad bannire in supradictis diebus id est septem dies ante natalem usque in octavas epiphaniae et a quinquagesima usque in octavas paschae et septem dies ante nativitatem sancti Iohannis Baptistae quatenus adeundi ecclesiam orationibusque vacandi liberius habeatur facultas",
+            "metadata": {
+                "sameAs": "#edition-13-toc-021",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-021",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-021",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-021",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-021"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-022",
+            "type": "chapter",
+            "n": "22",
+            "heading": "xxii Ut ieiunium absque cibo luxuriae observari debeat",
+            "text": "Non dico hebdomadas non dico duplicata ieiunia sed saltem singulos dies absque ciborum luxuria transigamus",
+            "metadata": {
+                "sameAs": "#edition-13-toc-022",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-022",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-022",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-022",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-022"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-023",
+            "type": "chapter",
+            "n": "23",
+            "heading": "xxiii Ut cottidianum ieiunium non sit sine refectione aliqua",
+            "text": "Sint tibi cottidiana ieiunia et refectio satietatem fugiens. Nihil enim prodest tibi biduo triduoque transmisso vacuum portare ventrem si pariter obruatur. Si compensantur saturitate ieiunia ilico mens repleta torpescit et irrigata terra corporis huius spinas et carduum germinat",
+            "metadata": {
+                "sameAs": "#edition-13-toc-023",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-023",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-023",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-023",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-023"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-024",
+            "type": "chapter",
+            "n": "24",
+            "heading": "xxiiii De eodem",
+            "text": "Sint tibi ieiunia pura continua moderataque id est cottidie esurire et cottidie prandere",
+            "metadata": {
+                "sameAs": "#edition-13-toc-024",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-024",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-024",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-024",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-024"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-025",
+            "type": "chapter",
+            "n": "25",
+            "heading": "xxv Quod curet vulnera delinquentis",
+            "text": "Noli adhuc aquam bibere sed modico utere vino infirmitates tuas curat enim vulnera delinquentis curatosque sanctificat ieiunium",
+            "metadata": {
+                "sameAs": "#edition-13-toc-025",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-025",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-025",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-025",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-025"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-026",
+            "type": "chapter",
+            "n": "26",
+            "heading": "xxvi De quodam Alcibiade qui sibi grave iugum ieiunii inposuerat",
+            "text": "Alcibiades quidam erat ex numero eorum qui pro Christo vincti tenebantur hic vitam satis arduam et austeram gerebat nihil cibi volens accipere sed tantum pane et sale cum aqua utebatur. Cum vitae hunc rigorem vellet etiam in carcere positus obtinere Attalo cuidam servo dei revelatum est quia non recte faceret Alcibiades creaturis dei et vellet aliis formam scandali derelinquere. Quibus cognitis Alcibiades coepit omnia cum gratiarum actione percipere quia quae illi revelabat spiritus ut doceret huic ut sequeretur id est spiritus per suadebat",
+            "metadata": {
+                "sameAs": "#edition-13-toc-026",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-026",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-026",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-026",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-026"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-027",
+            "type": "chapter",
+            "n": "27",
+            "heading": "xxvii De eo qui sub obtentu religionis sine iussu episcopi sui vel presbyteri ieiunium sibi imponit",
+            "text": "Ut nemo nisi consentiente proprio episcopo aut eius misso ieiunium sub obtentu religionis sibi imponat unum diem prae aliis excipiendo omnimodo interdicimus quod et factum displicet et in futurum fieri prohibemus quia plus causa hariolandi esse dinoscitur quam supplementum catholicae legis",
+            "metadata": {
+                "sameAs": "#edition-13-toc-027",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-027",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-027",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-027",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-027"
+                ]
+            }
+        },
+        {
+            "id": "edition-13-con-028",
+            "type": "chapter",
+            "n": "28",
+            "heading": "xxviii Ut nullus christianus dum sancta loca pro reverentia petierit alicuius publicae potestatis banno ibidem",
+            "text": "Praecipimus namque ut nullus christianus pro reverentia ecclesiam petendo ibique manendo indeque revertendo alicuius publicae potestatis banno ibidem constringatur ne forte dum ad ecclesiam causa orationis properat per bannum impediatur pro salute animae devote insistere",
+            "metadata": {
+                "sameAs": "#edition-13-toc-028",
+                "corresp": [
+                    "#frankfurt-ub-b-50-13-con-028",
+                    "../koeln-edd-c-119/koeln-edd-c-119-13.xml#koeln-edd-c-119-13-con-028",
+                    "../vatican-bav-pal-lat-586/vatican-bav-pal-lat-586-13.xml#vatican-bav-pal-lat-586-13-con-028",
+                    "../bamberg-sb-c-6/bamberg-sb-c-6-13.xml#bamberg-sb-c-6-13-con-028"
+                ]
+            }
+        }
+    ]
+}
